@@ -2,6 +2,8 @@
 
 ### A comprehensive list of awesome Chronicle resources! 
 
+![Chronicle logo](chroni.svg)
+
 
 # Table of Contents
 - [Upcoming Events and Hackathons](#upcoming-events-and-hackathons)
