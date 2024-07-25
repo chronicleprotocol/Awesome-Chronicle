@@ -54,7 +54,7 @@
 
 
 ## Official Twitter Account
-- Chroncile [@ChronicleLabs](https://x.com/ChronicleLabs)
+- Chronicle [@ChronicleLabs](https://x.com/ChronicleLabs)
 
 ## People to Follow
 
