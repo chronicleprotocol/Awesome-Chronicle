@@ -12,7 +12,7 @@
 - [Workshops](#workshops)
 - [Developer Resources](#developer-resources)
 - [Videos](#videos)
-- [Official Twitter Accounts](#official-twitter-accounts)
+- [Official Twitter Account](#official-twitter-accounts)
 - [FAQ](#faq)
 - [People to Follow](#people-to-follow)
 - [Best Tweets](#best-tweets)
