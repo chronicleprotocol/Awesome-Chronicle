@@ -13,6 +13,7 @@
 - [Developer Resources](#developer-resources)
 - [Videos](#videos)
 - [Official Twitter Accounts](#official-twitter-accounts)
+- [FAQ](#faq)
 - [People to Follow](#people-to-follow)
 - [Best Tweets](#best-tweets)
 
@@ -25,10 +26,9 @@
 - [ETHGlobal Bangkok](https://ethglobal.com/events/bangkok) | November 15-17 | Thailand |
 
 ## Articles
-- [Web3 Oracles on Chronicle Protocol]()
+- [Web3 Oracles on Chronicle Protocol](https://messari.io/report/web3-oracles-on-chronicle-protocol)
 - [The Fundamentals of Chronicle Protocol](https://tokenterminal.com/resources/crypto-research/the-fundamentals-of-chronicle-protocol#abstract)
 - [The most cheap and efficient Oracle. What is Chronicle Protocol?](https://hackenproof.com/blog/for-hackers/what-is-chronicle-protocol)
-
 
 
 ## Podcasts
@@ -51,20 +51,29 @@
 - [Will your Oracle hug you or rug you? / Paweł Zaremba](https://www.youtube.com/watch?v=dCGz7GwCXgE)
 - [Are RWAs the Answer to the DeFi Boom-Bust Cycle? Niklas Kunkel - Chronicle Labs ](https://www.youtube.com/watch?v=MLu0F3lW_UI&list=PLHWmbk2F4kE-H54fXRpii0UphKeqZgIW3&index=2)
 - [DappCon 2023: Oracles: The Next Generation - Pawel Zaremba](https://www.youtube.com/watch?v=8K7CWrxRk80&list=PLHWmbk2F4kE-H54fXRpii0UphKeqZgIW3&index=4)
+- [Angus Tookey - DeFi has a data problem](https://www.youtube.com/watch?v=gx9M1wyhsEU)
+- [Webinar ESBC X Chronicle Labs | Powering MakerDAO](https://www.youtube.com/watch?v=UTiWveFAPQA)
 
 
 ## Official Twitter Account
 - Chronicle [@ChronicleLabs](https://x.com/ChronicleLabs)
 
+## FAQ
+- [Chroncile FAQ](https://docs.chroniclelabs.org/category/faq)
+
 ## People to Follow
 
-   - [Alexander Vasylchenko](https://x.com/AlexanderVasyl), Product
-   - [Niklas Kunkel](https://x.com/nomos_paradox), Founder
-   - [Angus Tookey](https://x.com/AngusTookey), Marketing
+   - [Wesley Blake](https://x.com/wesleycblake), Engineering
    - [Bianca Buzea](https://x.com/buzea200), Developer Relations
-   - [Jenn Senhaji](https://x.com/jensenhaji), BD/Growth
-   - [Pawel Zaremba](https://x.com/teghnet), Engineering
+   - [Niklas Kunkel](https://x.com/nomos_paradox), Founder
    - [Merkleplant](https://x.com/merkleplant_eth), Engineering
+   - [Jenn Senhaji](https://x.com/jensenhaji), BD/Growth
+   - [Angus Tookey](https://x.com/AngusTookey), Marketing
+   - [Alexander Vasylchenko](https://x.com/AlexanderVasyl), Product 
+   - [Pawel Zaremba](https://x.com/teghnet), Engineering
+  
+   
+ 
 
 ## Best Tweets
 - [Scribe - an efficient Schnorr multi-signature based Oracle](https://x.com/merkleplant_eth/status/1693652385980379593)
