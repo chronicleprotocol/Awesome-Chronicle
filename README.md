@@ -13,7 +13,7 @@
 - [Developer Resources](#developer-resources)
 - [Videos](#videos)
 - [Official Twitter Accounts](#official-twitter-accounts)
-- [People to Follow](#people-to-follow)
+- [Short-Video-Explainers](#short-video-explainers)
 - [Best Tweets](#best-tweets)
 
 
@@ -28,7 +28,6 @@
 - [The Fundamentals of Chronicle Protocol](https://tokenterminal.com/resources/crypto-research/the-fundamentals-of-chronicle-protocol#abstract)
 - [The most cheap and efficient Oracle. What is Chronicle Protocol?](https://hackenproof.com/blog/for-hackers/what-is-chronicle-protocol)
 - [Verifiable Blockchain Oracles on Chronicle Protocol](https://messari.io/report/web3-oracles-on-chronicle-protocol)
-
 
 
 ## Podcasts
@@ -54,12 +53,21 @@
 - [Are RWAs the Answer to the DeFi Boom-Bust Cycle? Niklas Kunkel - Chronicle Labs ](https://www.youtube.com/watch?v=MLu0F3lW_UI&list=PLHWmbk2F4kE-H54fXRpii0UphKeqZgIW3&index=2)
 - [DappCon 2023: Oracles: The Next Generation - Pawel Zaremba](https://www.youtube.com/watch?v=8K7CWrxRk80&list=PLHWmbk2F4kE-H54fXRpii0UphKeqZgIW3&index=4)
 
+## Short Video Explainers
+- [Chornicle's Verified Asset Oracle and its role in the RWA space](https://x.com/buzea200/status/1915124243097932094)
+- [Building a resilient oracle setup](https://x.com/ChronicleLabs/status/1910281209457868830)
+- [Integrating Chronicle Oracles on Unichain](https://x.com/ChronicleLabs/status/1904252735102525782)
+- [Integrating Chronicle Oracles on Monad](https://x.com/ChronicleLabs/status/1892875500323733569)
+- [Integrating Chronicle Oracles on Berachain](https://x.com/buzea200/status/1888325902141903252)
+- [Cross-check the asset pair of a Chronicle Oracle on Etherscan](https://x.com/ChronicleLabs/status/1876617173332066312)
+- [Overview of the Chronicle Dashboard](https://x.com/ChronicleLabs/status/1828466802466189549)
 
 ## Official Chronicle Accounts
 - [Chronicle Website](https://chroniclelabs.org/)
 - [Docs Portal](https://docs.chroniclelabs.org/)
 - [X](https://x.com/ChronicleLabs)
 - [LinkedIn](https://www.linkedin.com/in/bianca-andreea-buzea/)
+- [Discord](https://discord.com/invite/CjgvJ9EspJ)
 
 ## Chronicle Points Program
 - [Points Program Video](https://www.youtube.com/watch?v=llP4IqDT_AI)
