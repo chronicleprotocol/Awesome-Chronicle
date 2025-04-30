@@ -12,9 +12,11 @@
 - [Workshops](#workshops)
 - [Developer Resources](#developer-resources)
 - [Videos](#videos)
-- [Official Twitter Accounts](#official-twitter-accounts)
-- [Short-Video-Explainers](#short-video-explainers)
+- [Short Video Explainers](#short-video-explainers)
+- [Official Chronicle Accounts](#official-chronicle-accounts)
+- [Chronicle Points Program](#chronicle-points-program)
 - [Best Tweets](#best-tweets)
+- [Community content](#community-content)
 
 
 ## Upcoming Events and Hackathons
